@@ -29,6 +29,7 @@ Awesome dVPN VPN Network decentralized Ethereum Blockchain DHT-VPN Peer-to-peer 
 # dVPN  
 | Pattern| Result | FreeBSD  | Win10 and Linux  |Google Play| 
 |-------|--------|--------|--------|----------|
+|[cryptostorm private network](https://cryptostorm.is/)   |[The VPN service provider for the truly paranoid](https://github.com/cryptostorm)    |[FreeBSD](https://cryptostorm.is/)|[Win10 and Linux](https://cryptostorm.is/)|[]()      |
 |[MuMu P2P VPN]()   |[MuMu brings you a Point to Point (P2P) VPN service, in this app you can safely communicate between 2 networks regardless of where they are. The concept is simple; a multitude of routers or app users can route their data privately to one exit router of your choosing, where they communicate within a protected tunnel.]()    |[FreeBSD](https://mumu.systems/)|[Win10 and Linux]()|[MuMu P2P VPN](https://play.google.com/store/apps/details?id=com.mumuvpn)      |
 |[geph](https://geph.io/en/)   |[Geph connects you with the censorship-free Internet,even when nothing else works.](https://geph.io/en/)    |[FreeBSD](https://github.com/geph-official/)|[Win10 and Linux](https://github.com/geph-official/)|[geph](https://play.google.com/store/apps/details?id=io.geph.android)      |
 |[Psiphon](https://psiphon.ca/)   |[Secure and high-performance, Psiphon provides open access to the uncensored internet for millions of people around the world](https://github.com/Psiphon-Inc)    |[FreeBSD](https://github.com/Psiphon-Labs)|[Win10 and Linux](https://github.com/Psiphon-Inc/psiphon)|[Psiphon](https://play.google.com/store/apps/details?id=com.psiphon3.subscription)      |
@@ -102,5 +103,6 @@ global socks5 proxy 127.0.0.1:9050
 [Blockchain-DNS.info](https://blockchain-dns.info/)|[Public API for querying blockchain-based domain name systems](https://blockchain-dns.info/)|[FreeBSD](https://github.com/B-DNS)|[Win10 and Linux](https://github.com/B-DNS)|[]()|
 [controld](https://controld.com/free-dns)
 [EthDNS and EthLink](https://eth.link/)
+[cryptostorm's DeepDNS](https://github.com/cryptostorm/cstorm_deepDNS)
 #
 #
