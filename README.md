@@ -6,8 +6,6 @@
 Download EFF's No Censorship button to your website and to your social networking campaign.
 Replace your social networking avatars with EFF's No Censorship graphic.
 #
-# Use "Decentralizing" Blockchain,Ethereum,dVPN, technology to destroy network censorship
-# Censorship Evasion [Geneva](https://github.com/Kkevsterrr/geneva)
 #
 # open source search engine
 open source Privacy-respecting search engine
@@ -17,6 +15,8 @@ open source Privacy-respecting search engine
 |[searx](https://searx.me/) |[Searx engine](https://github.com/searx/searx) |
 |[YaCy Search Engine](http://yacy.net/) |[Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance](https://github.com/yacy/yacy_search_server)|
 #
+# Use "Decentralizing" Blockchain,Ethereum,dVPN, technology to destroy network censorship
+# Censorship Evasion [Geneva](https://github.com/Kkevsterrr/geneva)
 # Awesome-VPN-Network
 Awesome dVPN VPN Network decentralized Ethereum Blockchain DHT-VPN Peer-to-peer open-source
 | Pattern| Result | FreeBSD  | Win10 and Linux  |Google Play| 
