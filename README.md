@@ -112,7 +112,7 @@ global socks5 proxy 127.0.0.1:9050
 [Blockchain-DNS.info](https://blockchain-dns.info/)|[Public API for querying blockchain-based domain name systems](https://blockchain-dns.info/)|[FreeBSD](https://github.com/B-DNS)|[Win10 and Linux](https://github.com/B-DNS)|[]()|
 [controld](https://controld.com/free-dns)
 [EthDNS and EthLink](https://eth.link/)
-[DNS Changer | MAC Address Changer](https://www.rentanadviser.com/default.aspx)
+[DNS Changer MAC Address Changer](https://www.rentanadviser.com/default.aspx)
 [1.1.1.1](https://1.0.0.1/)
 [cryptostorm's DeepDNS](https://github.com/cryptostorm/cstorm_deepDNS)
 #
