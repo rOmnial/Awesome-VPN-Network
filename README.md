@@ -104,6 +104,7 @@ global socks5 proxy 127.0.0.1:9050
 [controld](https://controld.com/free-dns)
 [EthDNS and EthLink](https://eth.link/)
 [DNS Changer | MAC Address Changer](https://www.rentanadviser.com/default.aspx)
+[1.1.1.1](https://1.0.0.1/)
 [cryptostorm's DeepDNS](https://github.com/cryptostorm/cstorm_deepDNS)
 #
 #
