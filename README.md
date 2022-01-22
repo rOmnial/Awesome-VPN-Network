@@ -123,7 +123,7 @@ global socks5 proxy 127.0.0.1:9050
 #
 #
 # DNScrypt
-global socks5 proxy 127.0.0.1:9050
+https://dnscrypt.info/
 | Pattern| Result | FreeBSD  | Win10 and Linux  |Google play| 
 |-------|--------|--------|--------|----------|
 |[Every Proxy](https://www.everyproxy.co.uk/)|[Run your own proxy server on your Android device.The application handles the following protocols:Http Https Socks4 Socks5](https://www.everyproxy.co.uk/)|[FreeBSD](https://www.everyproxy.co.uk/)|[Win10 and Linux](https://www.everyproxy.co.uk/)|[Every Proxy](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)|
