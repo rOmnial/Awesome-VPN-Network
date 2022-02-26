@@ -13,6 +13,7 @@ open source Privacy-respecting search engine
 |-------|--------|
 |[【sese-engine】新时代的搜索引擎！](https://github.com/RimoChan/sese-engine) |[Sese engine ui. 色色搜索引擎 UI](https://github.com/YunYouJun/sese-engine-ui) |
 |[searx](https://searx.me/) |[Searx engine](https://github.com/searx/searx) |
+|[gigablast](https://www.gigablast.com/) |[gigablast engine](https://github.com/gigablast/open-source-search-engine) |
 |[YaCy Search Engine](http://yacy.net/) |[Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance](https://github.com/yacy/yacy_search_server)|
 #
 # Use "Decentralizing" Blockchain,Ethereum,dVPN, technology to destroy network censorship
