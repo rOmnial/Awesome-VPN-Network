@@ -25,7 +25,7 @@ open source Privacy-respecting search engine
 |[jina](https://docs.jina.ai/) |[Cloud-Native Neural Search? Framework for Any Kind of Data](https://github.com/jina-ai/jina/) |
 |[OpenSearchServer](http://www.opensearchserver.com/) |[Open-source Enterprise Grade Search Engine Software](https://github.com/jaeksoft/opensearchserver) |
 |[Terrier](http://terrier.org/docs/v4.2/website_search.html) |[Terrier is a highly flexible, efficient, and effective open source search engine](https://github.com/terrier-org/terrier-core) |
-|[Whoogle Search](A self-hosted, ad-free, privacy-respecting metasearch engine) |[A self-hosted, ad-free, privacy-respecting metasearch engine](https://github.com/benbusby/whoogle-search) |
+|[Whoogle Search](https://github.com/benbusby/whoogle-search) |[A self-hosted, ad-free, privacy-respecting metasearch engine](https://github.com/benbusby/whoogle-search) |
 #
 # Use "Decentralizing" Blockchain,Ethereum,dVPN, technology to destroy network censorship
 # Censorship Evasion [Geneva](https://github.com/Kkevsterrr/geneva)
