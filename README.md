@@ -14,10 +14,22 @@ open source Privacy-respecting search engine
 |[【sese-engine】新时代的搜索引擎！](https://github.com/RimoChan/sese-engine) |[Sese engine ui. 色色搜索引擎 UI](https://github.com/YunYouJun/sese-engine-ui) |
 |[searx](https://searx.me/) |[Searx engine](https://github.com/searx/searx) |
 |[gigablast](https://www.gigablast.com/) |[gigablast engine](https://github.com/gigablast/open-source-search-engine) |
+|[Meilisearch](https://github.com/meilisearch/meilisearch) |[Powerful, fast, and an easy to use search engine](https://docs.meilisearch.com/) |
 |[YaCy Search Engine](http://yacy.net/) |[Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance](https://github.com/yacy/yacy_search_server)|
+|[ipfs-search](http://ipfs-search.com/) |[IPFS Search engine for the Interplanetary Filesystem.](https://github.com/ipfs-search/ipfs-search) |
+|[dweb-search-frontend](https://dweb-search-frontend.on.fleek.co/) |[Frontend for dweb-search, formerly ipfs-search.com](https://github.com/ipfs-search/dweb-search-frontend) |
+|[IPSE](https://www.ipse.io/) |[The web 3.0's network traffic portal, Search Engine Based on the decentralized storage network](https://github.com/IPSE-TEAM) |
+|[Almonit](http://almonit.club/) |[ENS+IPFS Firefox plugin by Almonit](https://github.com/almonit/almonit-plugin) |
+|[Ahmia.fi](https://ahmia.fi/) |[Ahmia.fi - Hidden service onion search engine](https://github.com/ahmia/ahmia-site) |
+|[Learn Anything](https://learn-anything.xyz/) |[Organize world's knowledge, explore connections and curate learning paths](https://github.com/learn-anything/learn-anything) |
+|[jina](https://docs.jina.ai/) |[Cloud-Native Neural Search? Framework for Any Kind of Data](https://github.com/jina-ai/jina/) |
+|[OpenSearchServer](http://www.opensearchserver.com/) |[Open-source Enterprise Grade Search Engine Software](https://github.com/jaeksoft/opensearchserver) |
+|[Terrier](http://terrier.org/docs/v4.2/website_search.html) |[Terrier is a highly flexible, efficient, and effective open source search engine](https://github.com/terrier-org/terrier-core) |
+|[Whoogle Search](A self-hosted, ad-free, privacy-respecting metasearch engine) |[A self-hosted, ad-free, privacy-respecting metasearch engine](https://github.com/benbusby/whoogle-search) |
 #
 # Use "Decentralizing" Blockchain,Ethereum,dVPN, technology to destroy network censorship
 # Censorship Evasion [Geneva](https://github.com/Kkevsterrr/geneva)
+## Before using VPN, please modify **[DNS](https://www.dnsperf.com/#!dns-resolvers)** to ensure that the vpn server is correct resolve. [How to Change Your DNS](https://www.wikihow.com/wikiHowTo?search=dns) **[Change sim Mobile data APN](https://apkpure.com/apn-settings/net.thenatureweb.apnsettings)**
 # Awesome-VPN-Network
 Awesome dVPN VPN Network decentralized Ethereum Blockchain DHT-VPN Peer-to-peer open-source
 | Pattern| Result | FreeBSD  | Win10 and Linux  |Google Play| 
@@ -131,7 +143,7 @@ https://dnscrypt.info/
 |[Every Proxy](https://www.everyproxy.co.uk/)|[Run your own proxy server on your Android device.The application handles the following protocols:Http Https Socks4 Socks5](https://www.everyproxy.co.uk/)|[FreeBSD](https://www.everyproxy.co.uk/)|[Win10 and Linux](https://www.everyproxy.co.uk/)|[Every Proxy](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)|
 |[VPN Hotspot](https://github.com/Mygod/VPNHotspot)|[Connecting things to your VPN made simple. Share your VPN connection over hotspot/system tethering or repeater. (root required)
 [Mygod](https://github.com/Mygod)|[FreeBSD](https://github.com/Mygod/VPNHotspot)|[Win10 and Linux](https://github.com/Mygod/VPNHotspot)|[VPN Hotspot](https://play.google.com/store/apps/details?id=be.mygod.vpnhotspot)|
-|[InviZible Pro]()   |[InviZible Pro tor i2p proxy](https://github.com/Gedsh/InviZible)    |[FreeBSD](https://github.com/Gedsh/InviZible)|[Win10 and Linux](https://github.com/Gedsh/InviZible)|[InviZible Pro](https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp)      |
+|[InviZible Pro](https://github.com/Gedsh/InviZible)   |[InviZible Pro tor i2p proxy](https://github.com/Gedsh/InviZible)    |[FreeBSD](https://github.com/Gedsh/InviZible)|[Win10 and Linux](https://github.com/Gedsh/InviZible)|[InviZible Pro](https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp)      |
 |[DNSCrypt](https://dnscrypt.info/)|[dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.](https://github.com/DNSCrypt/dnscrypt-proxy)|[FreeBSD](https://dnscrypt.info/implementations)|[Win10 and Linux](https://dnscrypt.info/implementations)|[DNScrypt](https://github.com/dnscrypt)|
 |[NEM blockchain DNS](https://chrome.google.com/webstore/detail/nem-blockchain-dns/cecfgjcaojocahnokodcboipkhdcefip)|[The NEM DNS is build on the NEM blockchain platform and is opensource:](https://github.com/aenima86)|[FreeBSD](https://github.com/aenima86/NEM-DNS)|[Win10 and Linux](https://github.com/aenima86/NEM-DNS)|[]()|
 [Blockchain-DNS.info](https://blockchain-dns.info/)|[Public API for querying blockchain-based domain name systems](https://blockchain-dns.info/)|[FreeBSD](https://github.com/B-DNS)|[Win10 and Linux](https://github.com/B-DNS)|[]()|
