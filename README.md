@@ -1,3 +1,5 @@
+#contact https://getsession.org/
+---- ---
 # 2021-2030 Internet censorship and surveillance [Internet censorship by country](https://rsf.org/en/ranking/2021#) 
 
 <blockquote><p>Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.</p></blockquote>
@@ -5,7 +7,6 @@
 ["No Censorship" Buttons](https://www.eff.org/pages/alternate-no-censorship-buttons)
 Download EFF's No Censorship button to your website and to your social networking campaign.
 Replace your social networking avatars with EFF's No Censorship graphic.
-#
 #
 # open source search engine
 open source Privacy-respecting search engine
