@@ -1,4 +1,4 @@
-#contact https://getsession.org/
+# contact https://getsession.org/
 ---- ---
 # 2021-2030 Internet censorship and surveillance [Internet censorship by country](https://rsf.org/en/ranking/2021#) 
 
